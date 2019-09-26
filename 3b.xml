@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="setlistDesign.css"?>
+<setlist>
+    <title>Aiden's Setlist</title>
+    <song id="first">
+        <artist>Lauv</artist>
+        <songname>Paris in the Rain</songname>
+        <genre>Pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Sam Smith</artist>
+        <songname>How Do You Sleep?</songname>
+        <genre>Pop</genre>
+        <year>2019</year>
+    </song>
+    <song>
+        <artist>NCT U</artist>
+        <songname>Baby Don't Stop</songname>
+        <genre>K-pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Carpenters</artist>
+        <songname>Close To You</songname>
+        <genre>Pop</genre>
+        <year>1970</year>
+    </song>
+    <song>
+        <artist>Adele</artist>
+        <songname>Remedy</songname>
+        <genre>Pop</genre>
+        <year>2015</year>
+    </song>
+    <song>
+        <artist>Red Velvet</artist>
+        <songname>Bad Boy</songname>
+        <genre>K-pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Diana Ross</artist>
+        <songname>I'm Coming Out</songname>
+        <genre>Disco</genre>
+        <year>1980</year>
+    </song>
+    <song>
+        <artist>Sam Kim</artist>
+        <songname>Seattle</songname>
+        <genre>K-pop</genre>
+        <year>2016</year>
+    </song>
+    <song>
+        <artist>Inger Gundersen</artist>
+        <songname>When October Goes</songname>
+        <genre>Pop</genre>
+        <year>2018</year>
+    </song>
+    <song>
+        <artist>Julie London</artist>
+        <songname>Bidin' My Time</songname>
+        <genre>Traditional Pop</genre>
+        <year>1968</year>
+    </song>
+
+</setlist>
